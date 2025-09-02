@@ -22,12 +22,12 @@
 <a href="https://instagram.com/wagadrevishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wagadrevishal" height="30" width="40" /></a>
 </p>
 
-## About
-I am a data analyst focused on turning complex datasets into clear, decision‑ready insights through crisp dashboards and succinct narratives using **Python**, **SQL**, **Excel**, and **Power BI** [5].  
-- Data mining, visualization, dashboard building, and reporting to support actionable strategies, with attention to performance and clarity [5].  
-- Portfolio includes EDA, predictive modeling, dashboards, and automation workflows tailored for stakeholders [5].  
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3a53a404-1592-4ded-acd4-31a185e932c1" /> About
+I am a data analyst focused on turning complex datasets into clear, decision‑ready insights through crisp dashboards and succinct narratives using **Python**, **SQL**, **Excel**, and **Power BI**.  
+- Data mining, visualization, dashboard building, and reporting to support actionable strategies, with attention to performance and clarity.  
+- Portfolio includes EDA, predictive modeling, dashboards, and automation workflows tailored for stakeholders.  
 
-## Tech stack
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec03388e-2ebc-471c-a70f-eded497f4916" /> Tech stack
 <p>
   <!-- Minimal modern badges via Shields.io -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -42,7 +42,7 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
        alt="Minimal analytics loop" width="520"/>
 </p>
 
-## Featured projects
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5b2b0955-9dd5-40ec-90c8-e373bf4f2a3b" /> My Projects
 <!--
 Tile grid: 2-wide responsive-esque layout using HTML tables (GitHub renders tables well).
 Each “tile” has a cover (PNG/GIF), short bullets, and a CTA link. Store assets in /assets of each repo.
@@ -131,18 +131,18 @@ Each “tile” has a cover (PNG/GIF), short bullets, and a CTA link. Store asse
   </tr>
 </table>
 
-## How I work
-- Outcome‑first: define decisions → derive metrics → design visuals clearly and minimally [5].  
-- Performance & quality: efficient SQL, tidy models, validated assumptions, and lightweight assets/GIFs [9].  
-- Communication: concise takeaways with next‑step recommendations for stakeholders [5].  
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b96f01df-3cae-4a54-98e2-d4bcffb8dc49" /> How I work
+- Outcome‑first: define decisions → derive metrics → design visuals clearly and minimally.  
+- Performance & quality: efficient SQL, tidy models, validated assumptions, and lightweight assets/GIFs.  
+- Communication: concise takeaways with next‑step recommendations for stakeholders.  
 
-## Activity
+## 🤸‍♂️ Activity
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=graywhite&hide_title=true&hide_border=true" alt="GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=graywhite&hide_border=true" alt="Top Langs" height="150"/>
 </p>
 
-## Connect
+## 🔗Connect
 <p>
   <a href="https://instagram.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
