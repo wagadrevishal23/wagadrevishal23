@@ -1,7 +1,7 @@
 <!-- HERO / BANNER -->
 <p align="center">
   <!-- Replace with your banner (PNG/SVG). Suggested: abstract lines/grid, muted colors -->
-  <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/Data%20Analyst.jpg?raw=true"
+  <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/Data%20Analyst.jpg?raw=true"
        width="100%" />
 </p>
 
