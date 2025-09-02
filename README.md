@@ -30,6 +30,7 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec03388e-2ebc-471c-a70f-eded497f4916" /> Tech stack
 <p>
   <!-- Minimal modern badges via Shields.io -->
+  ![Icon](images/icon.png)
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
@@ -43,93 +44,56 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
 </p>
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5b2b0955-9dd5-40ec-90c8-e373bf4f2a3b" /> My Projects
-<!--
-Tile grid: 2-wide responsive-esque layout using HTML tables (GitHub renders tables well).
-Each “tile” has a cover (PNG/GIF), short bullets, and a CTA link. Store assets in /assets of each repo.
--->
-
+<div align="center">
 <table>
   <tr>
-    <!-- TILE 1 -->
     <td width="50%" valign="top">
-      <a href="https://github.com/your-username/sales-analytics-dashboard" target="_blank">
-        <img src="https://raw.githubusercontent.com/your-username/sales-analytics-dashboard/main/assets/cover.png"
-             alt="Sales Analytics Dashboard" width="100%" />
-      </a>
-      <h3>Sales Analytics Dashboard · Power BI</h3>
-      <ul>
-        <li>Executive KPIs for revenue, margin, product mix, cohort retention</li>
-        <li>Star schema, calculated columns, focused DAX measures</li>
-        <li>Optimized refresh and clarified leadership KPI tracking</li>
-      </ul>
-      <p>
-        <a href="https://github.com/your-username/sales-analytics-dashboard" target="_blank">
-          🔗 View repository
-        </a>
-      </p>
+      <a href="https://github.com/your-username/sales-analytics-dashboard">
+        <img src="https://raw.githubusercontent.com/your-username/sales-analytics-dashboard/main/assets/cover.png" alt="Sales Analytics Dashboard" width="90%"/>
+      </a><br/>
+      <b>Sales Analytics Dashboard · Power BI</b><br/>
+      - Executive KPIs (revenue, margin, cohorts)<br/>
+      - Star schema + focused DAX<br/>
+      - Faster refresh, clearer KPI tracking<br/>
+      <a href="https://github.com/your-username/sales-analytics-dashboard">🔗 View repository</a>
     </td>
-
-    <!-- TILE 2 -->
     <td width="50%" valign="top">
-      <a href="https://github.com/your-username/customer-churn" target="_blank">
-        <!-- Animated cover okay if <2 MB -->
-        <img src="https://raw.githubusercontent.com/your-username/customer-churn/main/assets/cover.gif"
-             alt="Customer Churn Analysis" width="100%" />
-      </a>
-      <h3>Customer Churn Analysis · Python/Pandas</h3>
-      <ul>
-        <li>EDA, feature engineering, baseline models, SHAP insights</li>
-        <li>Drivers of churn highlighted with actionable signals</li>
-        <li>Reproducible notebooks with conclusions and next steps</li>
-      </ul>
-      <p>
-        <a href="https://github.com/your-username/customer-churn" target="_blank">
-          🔗 View repository
-        </a>
-      </p>
+      <a href="https://github.com/your-username/customer-churn">
+        <img src="https://raw.githubusercontent.com/your-username/customer-churn/main/assets/cover.gif" alt="Customer Churn Analysis" width="90%"/>
+      </a><br/>
+      <b>Customer Churn Analysis · Python/Pandas</b><br/>
+      - EDA, features, baseline + SHAP<br/>
+      - Actionable retention signals<br/>
+      - Reproducible notebooks<br/>
+      <a href="https://github.com/your-username/customer-churn">🔗 View repository</a>
     </td>
   </tr>
-
   <tr>
-    <!-- TILE 3 -->
     <td width="50%" valign="top">
-      <a href="https://github.com/your-username/sql-case-studies" target="_blank">
-        <img src="https://raw.githubusercontent.com/your-username/sql-case-studies/main/assets/cover.png"
-             alt="SQL Case Studies" width="100%" />
-      </a>
-      <h3>SQL Case Studies · Advanced SQL</h3>
-      <ul>
-        <li>Window functions, CTEs, and optimization patterns</li>
-        <li>Annotated, readable queries emphasizing performance</li>
-        <li>Reusable analytics engineering templates</li>
-      </ul>
-      <p>
-        <a href="https://github.com/your-username/sql-case-studies" target="_blank">
-          🔗 View repository
-        </a>
-      </p>
+      <a href="https://github.com/your-username/sql-case-studies">
+        <img src="https://raw.githubusercontent.com/your-username/sql-case-studies/main/assets/cover.png" alt="SQL Case Studies" width="90%"/>
+      </a><br/>
+      <b>SQL Case Studies · Advanced SQL</b><br/>
+      - Windows, CTEs, optimization<br/>
+      - Annotated readable queries<br/>
+      - Reusable AE patterns<br/>
+      <a href="https://github.com/your-username/sql-case-studies">🔗 View repository</a>
     </td>
-
-    <!-- TILE 4 -->
     <td width="50%" valign="top">
-      <a href="https://github.com/your-username/ops-kpi-tracker" target="_blank">
-        <img src="https://raw.githubusercontent.com/your-username/ops-kpi-tracker/main/assets/cover.png"
-             alt="Operations KPI Tracker" width="100%" />
-      </a>
-      <h3>Operations KPI Tracker · Excel + Power BI</h3>
-      <ul>
-        <li>Automated refresh (Power Query) and lean data model</li>
-        <li>Role‑based views for operations vs. leadership</li>
-        <li>Consistent, timely KPIs with reduced manual work</li>
-      </ul>
-      <p>
-        <a href="https://github.com/your-username/ops-kpi-tracker" target="_blank">
-          🔗 View repository
-        </a>
-      </p>
+      <a href="https://github.com/your-username/ops-kpi-tracker">
+        <img src="https://raw.githubusercontent.com/your-username/ops-kpi-tracker/main/assets/cover.png" alt="Operations KPI Tracker" width="90%"/>
+      </a><br/>
+      <b>Operations KPI Tracker · Excel + Power BI</b><br/>
+      - PQ refresh + lean model<br/>
+      - Role‑based views<br/>
+      - Timely KPIs, less manual work<br/>
+      <a href="https://github.com/your-username/ops-kpi-tracker">🔗 View repository</a>
     </td>
   </tr>
 </table>
+
+</div>
+
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/b96f01df-3cae-4a54-98e2-d4bcffb8dc49" /> How I work
 - Outcome‑first: define decisions → derive metrics → design visuals clearly and minimally.  
