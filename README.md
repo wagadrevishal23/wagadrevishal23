@@ -1,17 +1,14 @@
-<!--
-Profile README for: Vishal Wagadre
-Minimal data-analyst aesthetic with subtle animations and tiled projects
--->
-
 <!-- HERO / BANNER -->
 <p align="center">
   <!-- Replace with your banner (PNG/SVG). Suggested: abstract lines/grid, muted colors -->
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/hero-minimal-analytics.png"
-       alt="Minimal Analytics Banner" width="100%" />
+  <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/Data%20Analyst.jpg?raw=true"
+       width="100%" />
 </p>
 
 <!-- NAME + TAGLINE -->
-<h1 align="center">Vishal Wagadre</h1>
+<h1 align="center">
+  <strong>Vishal Wagadre</strong>
+</h1>
 <p align="center"><b>Data Analyst · Python · SQL · Excel · Power BI</b></p>
 
 <!-- SUBTLE ANIMATED DIVIDER (keep GIF <1–2 MB) -->
