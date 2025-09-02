@@ -18,12 +18,8 @@
 
 <!-- SOCIAL: modern flat-square badges -->
 <p align="center">
-  <a href="https://instagram.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://linkedin.com/in/vishal w." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal w." height="30" width="40" /></a>
+<a href="https://instagram.com/wagadrevishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wagadrevishal" height="30" width="40" /></a>
 </p>
 
 ## About
