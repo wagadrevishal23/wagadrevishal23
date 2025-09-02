@@ -18,7 +18,7 @@
 
 <!-- SOCIAL: modern flat-square badges -->
 <p align="center">
-  <a href="https://in.linkedin.com/in/vishal-w-1500b820a?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal w." height="30" width="40" /></a>
+  <a href="https://in.linkedin.com/in/vishal-w-1500b820a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal w." height="30" width="40" /></a>
 <a href="https://instagram.com/wagadrevishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wagadrevishal" height="30" width="40" /></a>
 </p>
 
