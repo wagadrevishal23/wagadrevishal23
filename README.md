@@ -29,12 +29,10 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec03388e-2ebc-471c-a70f-eded497f4916" /> Tech stack
 <p>
-  <!-- Minimal modern badges via Shields.io -->
-  ![Icon](images/icon.png)
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" alt="Power BI"/>
+  <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/Power-BI.png?raw=true" alt="Python" width="32" height="32" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" width="24" height="24" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" width="24" height="24" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" alt="Power BI" width="24" height="24" />
 </p>
 
 <!-- MICRO ANIMATION: tiny analytics loop (kept small for performance) -->
