@@ -25,19 +25,19 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec03388e-2ebc-471c-a70f-eded497f4916" /> Tech stack
 <p>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/Power-BI.png?raw=true" alt="Power BI" width="32" height="32" />
+    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/Power-BI.png?raw=true" alt="Power BI" width="32" height="32" />
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/SQL-logo.png?raw=true" alt="SQL" width="65" height="65" />
+    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/SQL-logo.png?raw=true" alt="SQL" width="65" height="65" />
   </a>
   
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/MsEXCEL-logo.png?raw=true" alt="Excel" width="35" height="35" />
+    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/MsEXCEL-logo.png?raw=true" alt="Excel" width="35" height="35" />
   </a>&nbsp;&nbsp;
   
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/Py.png?raw=true" alt="Python" width="38" height="38" />
+    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/Py.png?raw=true" alt="Python" width="38" height="38" />
   </a>
 </p>
 
