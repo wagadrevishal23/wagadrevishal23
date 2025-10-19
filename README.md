@@ -49,13 +49,11 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
   <table>
     <tr>
       <td width="25%" valign="top">
-        <a href="https://github.com/your-username/sales-analytics-dashboard">
-          <img src="https://raw.githubusercontent.com/your-username/sales-analytics-dashboard/main/assets/cover.png" alt="Sales Analytics Dashboard" width="90%"/>
+        <a href="https://github.com/wagadrevishal23/F1-2024-Season-Analysis/raw/main/F1-Project_Files/Graphs/f1_dashboard_2024.png?raw=true">
+          <img src="https://github.com/wagadrevishal23/F1-2024-Season-Analysis/raw/main/F1-Project_Files/Graphs/f1_dashboard_2024.png?raw=true" alt="F1 2024 Season Analysis" width="90%"/>
         </a><br/>
-        <b>Sales Analytics Dashboard · Power BI</b><br/>
-        - Executive KPIs (revenue, margin, cohorts)<br/>
-        - Star schema + focused DAX<br/>
-        - Faster refresh, clearer KPI tracking<br/>
+        <b>F1 2024 Season Analysis · Python</b><br/>
+        This repository features a comprehensive data analysis and visualization project for the 2024 Formula 1 season.<br/>
         <a href="https://github.com/your-username/sales-analytics-dashboard">🔗 View repository</a>
       </td>
       <td width="25%" valign="top">
