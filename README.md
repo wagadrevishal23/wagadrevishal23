@@ -49,7 +49,7 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
   <table>
     <tr>
       <td width="25%" valign="top">
-        <a href="https://github.com/wagadrevishal23/F1-2024-Season-Analysis/raw/main/F1-Project_Files/Graphs/f1_dashboard_2024.png?raw=true">
+        <a href="https://github.com/wagadrevishal23/F1-2024-Season-Analysis">
           <img src="https://github.com/wagadrevishal23/F1-2024-Season-Analysis/raw/main/F1-Project_Files/Graphs/f1_dashboard_2024.png?raw=true" alt="F1 2024 Season Analysis" width="90%"/>
         </a><br/>
         <b>F1 2024 Season Analysis · Python</b><br/>
