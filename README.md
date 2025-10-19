@@ -17,7 +17,7 @@
 </p>
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3a53a404-1592-4ded-acd4-31a185e932c1" /> About
-I am a data analyst focused on turning complex datasets into clear, decision‑ready insights through crisp dashboards and succinct narratives using **Tableau**, **Python**, **SQL**, **Excel**, and **Alteryx**.  
+I am a data analyst focused on turning complex datasets into clear, decision‑ready insights through crisp dashboards and succinct narratives using **Tableau**, **MySQL**, **Excel**, **Python**, and **Alteryx**.  
 - Data mining, visualization, dashboard building, and reporting to support actionable strategies, with attention to performance and clarity.  
 - Portfolio includes EDA, predictive modeling, dashboards, and automation workflows tailored for stakeholders.  
 
