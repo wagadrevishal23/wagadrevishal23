@@ -54,7 +54,7 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
         </a><br/>
         <b>F1 2024 Season Analysis · Python</b><br/>
         This repository features a comprehensive data analysis and visualization project for the 2024 Formula 1 season.<br/>
-        <a href="https://github.com/your-username/sales-analytics-dashboard">🔗 View repository</a>
+        <a href="https://github.com/wagadrevishal23/F1-2024-Season-Analysis/raw/main/F1-Project_Files/Graphs/f1_dashboard_2024.png?raw=true">🔗 View repository</a>
       </td>
       <td width="25%" valign="top">
         <a href="https://github.com/your-username/customer-churn">
