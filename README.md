@@ -57,14 +57,12 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
         <a href="https://github.com/wagadrevishal23/F1-2024-Season-Analysis">🔗 View repository</a>
       </td>
       <td width="25%" valign="top">
-        <a href="https://github.com/your-username/customer-churn">
-          <img src="https://raw.githubusercontent.com/your-username/customer-churn/main/assets/cover.gif" alt="Customer Churn Analysis" width="90%"/>
+        <a href="https://github.com/wagadrevishal23/Climate-Change-Analysis">
+          <img src="https://github.com/wagadrevishal23/Climate-Change-Analysis/raw/main/Climate_Project_Files/Charts/Climate_Change_Dashboard.png?raw=true" width="90%"/>
         </a><br/>
-        <b>Customer Churn Analysis · Python/Pandas</b><br/>
-        - EDA, features, baseline + SHAP<br/>
-        - Actionable retention signals<br/>
-        - Reproducible notebooks<br/>
-        <a href="https://github.com/your-username/customer-churn">🔗 View repository</a>
+        <b>Climate Change Analysis · Python/Pandas</b><br/>
+        This initiative offers an extensive, multi-faceted dataset monitoring crucial climate change indicators on a worldwide scale.<br/>
+        <a href="https://github.com/wagadrevishal23/Climate-Change-Analysis">🔗 View repository</a>
       </td>
       <td width="25%" valign="top">
         <a href="https://github.com/your-username/sql-case-studies">
