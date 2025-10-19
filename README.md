@@ -38,6 +38,10 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/Py.png?raw=true" alt="Python" width="38" height="38" />
   </a>
+
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/alteryx.png?raw=true" alt="alteryx" width="80" height="80" />
+  </a>
 </p>
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5b2b0955-9dd5-40ec-90c8-e373bf4f2a3b" /> My Projects
