@@ -24,7 +24,7 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ec03388e-2ebc-471c-a70f-eded497f4916" /> Tech stack
 <p>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/Power-BI.png?raw=true" alt="Power BI" width="32" height="32" />
+    <img src="https://github.com/wagadrevishal23/wagadrevishal23/blob/main/assets/Tableau%20Logo.png?raw=true" alt="Tableau" width="165" height="165" />
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
