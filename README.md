@@ -65,24 +65,20 @@ I am a data analyst focused on turning complex datasets into clear, decision‑r
         <a href="https://github.com/wagadrevishal23/Climate-Change-Analysis">🔗 View repository</a>
       </td>
       <td width="25%" valign="top">
-        <a href="https://github.com/your-username/sql-case-studies">
-          <img src="https://raw.githubusercontent.com/your-username/sql-case-studies/main/assets/cover.png" alt="SQL Case Studies" width="90%"/>
+        <a href="https://github.com/wagadrevishal23/Manufacturing-Analysis-Dashboard">
+          <img src="https://github.com/wagadrevishal23/Manufacturing-Analysis-Dashboard/blob/main/Assets/Dashboard1.png?raw=true" width="90%"/>
         </a><br/>
-        <b>SQL Case Studies · Advanced SQL</b><br/>
-        - Windows, CTEs, optimization<br/>
-        - Annotated readable queries<br/>
-        - Reusable AE patterns<br/>
-        <a href="https://github.com/your-username/sql-case-studies">🔗 View repository</a>
+        <b>Manufacturing Analysis Dashboard</b><br/>
+        This project focuses on analyzing manufacturing production data and employee performance metrics to derive insights and optimize operations.
+        <a href="https://github.com/wagadrevishal23/Manufacturing-Analysis-Dashboard">🔗 View repository</a>
       </td>
       <td width="25%" valign="top">
-        <a href="https://github.com/your-username/ops-kpi-tracker">
-          <img src="https://raw.githubusercontent.com/your-username/ops-kpi-tracker/main/assets/cover.png" alt="Operations KPI Tracker" width="90%"/>
+        <a href="https://github.com/wagadrevishal23/Sales-Performance-Analysis">
+          <img src="https://github.com/wagadrevishal23/Sales-Performance-Analysis/blob/main/Assets/preview.jpg?raw=true" width="90%"/>
         </a><br/>
-        <b>Operations KPI Tracker · Excel + Power BI</b><br/>
-        - PQ refresh + lean model<br/>
-        - Role‑based views<br/>
-        - Timely KPIs, less manual work<br/>
-        <a href="https://github.com/your-username/ops-kpi-tracker">🔗 View repository</a>
+        <b>Sales Performance Analysis</b><br/>
+        Created PowerBI reports analyzing sales trends and patterns, communicating insights effectively to drive business action and revenue optimization.
+        <a href="https://github.com/wagadrevishal23/Sales-Performance-Analysis">🔗 View repository</a>
       </td>
     </tr>
   </table>
